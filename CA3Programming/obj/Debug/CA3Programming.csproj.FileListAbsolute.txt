@@ -1,0 +1,17 @@
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3Application\CA3Programming\obj\Debug\CA3Programming.csproj.AssemblyReference.cache
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3Application\CA3Programming\obj\Debug\CA3Programming.Form1.resources
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3Application\CA3Programming\obj\Debug\CA3Programming.Properties.Resources.resources
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3Application\CA3Programming\obj\Debug\CA3Programming.csproj.GenerateResource.cache
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3Application\CA3Programming\obj\Debug\CA3Programming.csproj.CoreCompileInputs.cache
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3Application\CA3Programming\bin\Debug\CA3Programming.exe.config
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3Application\CA3Programming\bin\Debug\CA3Programming.exe
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3Application\CA3Programming\bin\Debug\CA3Programming.pdb
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3Application\CA3Programming\obj\Debug\CA3Programming.exe
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3Application\CA3Programming\obj\Debug\CA3Programming.pdb
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3\CA3Application (2)\CA3Application\CA3Programming\obj\Debug\CA3Programming.csproj.AssemblyReference.cache
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3\CA3Application (2)\CA3Application\CA3Programming\obj\Debug\CA3Programming.Form1.resources
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3\CA3Application (2)\CA3Application\CA3Programming\obj\Debug\CA3Programming.Properties.Resources.resources
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3\CA3Application (2)\CA3Application\CA3Programming\obj\Debug\CA3Programming.csproj.GenerateResource.cache
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3\CA3Application (2)\CA3Application\CA3Programming\obj\Debug\CA3Programming.csproj.CoreCompileInputs.cache
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3\CA3Application (2)\CA3Application\CA3Programming\obj\Debug\CA3Programming.exe
+C:\Users\seaoi\OneDrive\Desktop\DKIT3\program2022\CA3\CA3Application (2)\CA3Application\CA3Programming\obj\Debug\CA3Programming.pdb
